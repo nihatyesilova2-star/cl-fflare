@@ -1,0 +1,17 @@
+{
+  "name": "express-ejs-app",
+  "version": "1.0.0",
+  "description": "Express app with EJS, body-parser, and CORS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "latest",
+    "ejs": "latest",
+    "body-parser": "latest",
+    "cors": "latest"
+  },
+  "author": "",
+  "license": "ISC"
+}
